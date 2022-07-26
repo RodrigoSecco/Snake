@@ -1,6 +1,6 @@
 # Snake
  Jogo da cobrinha em linguagem C. Desenvolvido para um trabalho de faculdade das matérias linguagem de programação e algoritmos e programação.
- Foi utlilizado a biblioteca Raylib.
+ Foi utilizado a biblioteca Raylib.
  
  
 # Raylib template for Code::Blocks
